@@ -1,7 +1,3 @@
-Berikut versi tanpa emotikon dan tampilan lebih formal untuk langsung digunakan sebagai README.md:
-
----
-
 # LA7_RPL2_KHANSA
 
 Repositori ini berisi kumpulan tugas mata kuliah Rekayasa Perangkat Lunak 2. Setiap folder merupakan hasil praktik pada pertemuan yang berbeda dengan penerapan konsep dan teknologi yang berkembang secara bertahap.
