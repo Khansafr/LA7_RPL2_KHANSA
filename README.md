@@ -1,9 +1,5 @@
 # LA7_RPL2_KHANSA
 
-Repositori ini berisi kumpulan tugas mata kuliah Rekayasa Perangkat Lunak 2. Setiap folder merupakan hasil praktik pada pertemuan yang berbeda dengan penerapan konsep dan teknologi yang berkembang secara bertahap.
-
----
-
 ## Daftar dan Penjelasan Isi Folder
 
 ### pert1_rpl2
@@ -64,5 +60,3 @@ Struktur aplikasi meliputi:
 * View: antarmuka pengguna
 
 Konfigurasi aplikasi terdapat pada `application.properties`.
-
-Jika Anda membutuhkan tambahan seperti panduan menjalankan setiap proyek atau informasi author, saya dapat membantu menyusunnya.
